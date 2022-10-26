@@ -6,3 +6,6 @@ COMMIT F2
 COMMIT G3
 >>>>>>> fg
 COMMIT C5
+################
+COMMIT D6
+@@@@@@@@@@@@@@@@
